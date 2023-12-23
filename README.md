@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prasoonbhargava
-- 👀 I’m interested in FullStack development through Java
-- 🌱 I’m currently learning Advance java
+- 👀 I’m interested in FullStack development through Java and Angular
+- 🌱 I’m currently learning Spring Framework
 - 💞️ I’m looking to collaborate on Java projects
 - 📫 How to reach me : [Linkedin profile](https://www.linkedin.com/in/prasoon-bhargava-2b3899200/)
 <!---
